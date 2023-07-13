@@ -35,7 +35,7 @@ pipeline {
 
                 script{
 
-                    sh 'docker build -t tathagat23/devops-integration .'
+                    sh 'docker build -t tathagat27/devops-integration .'
 
                 }
 
