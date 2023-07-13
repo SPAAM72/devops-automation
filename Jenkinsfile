@@ -1,5 +1,3 @@
-[11:33] Patil, Anil
-
 pipeline {
 
     agent any
